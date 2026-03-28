@@ -37,7 +37,6 @@ I thrive in environments where code quality and agility are top priorities. Prof
 ---
 
 ###  GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emma008boop&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emma008boop&layout=compact&theme=radical) Conéctate conmigo:
 - **LinkedIn:** www.linkedin.com/in/emmanuel-z-690137332
 
