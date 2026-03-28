@@ -7,7 +7,7 @@ Busco equipos donde la calidad del código y la agilidad sean prioridad. Manejo 
 
 ---
 
-## 🚀 Lo que estoy haciendo ahora:
+##  Lo que estoy haciendo ahora:
 
     Explorando Rust: Construyendo conocimientos con un enfoque en rendimiento y seguridad de memoria.
 
@@ -19,7 +19,7 @@ Busco equipos donde la calidad del código y la agilidad sean prioridad. Manejo 
 
     UX/UI Design: Investigando tendencias estéticas, desde el minimalismo blanco de Apple hasta efectos de scroll snapping.
 
-### 🛠️ Mi Stack Tecnológico:
+###  Mi Stack Tecnológico:
 
 #### Frontend & UI
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
