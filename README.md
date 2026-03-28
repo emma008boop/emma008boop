@@ -37,10 +37,6 @@ Busco equipos donde la calidad del código y la agilidad sean prioridad. Manejo 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-### 📊 Mis Estadísticas de GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emma008boop&show_icons=true&theme=radical)
-
----
 
 ### 📫 Conéctate conmigo:
 - **LinkedIn:** www.linkedin.com/in/emmanuel-z-690137332
