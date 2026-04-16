@@ -35,9 +35,7 @@ I thrive in environments where code quality and agility are top priorities. Prof
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-###  GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emma008boop&layout=compact&theme=radical) Conéctate conmigo:
+Conect with me:
 - **LinkedIn:** www.linkedin.com/in/emmanuel-z-690137332
 
 ---
